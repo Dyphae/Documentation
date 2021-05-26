@@ -86,6 +86,10 @@ public class ExampleDatapack extends Datapack {
 Your now ready to make your first datpack using **Dyphae**!
 
 ## Creating your first datapack
+
+!> **Note:** <br>
+The code for this example can be found [here](https://github.com/Dyphae/ExampleDatapack/tree/master)
+
 Time to make your first datapck using **Dyphae**!
 
 *woo, exiting...*
