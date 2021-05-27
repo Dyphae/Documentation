@@ -13,3 +13,5 @@
 
     - [Say](commands/#/say)
     - [Give](commands/#/give)
+    - [Seed](commands/#/seed)
+    - [Reload](commands/#/reload)

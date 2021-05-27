@@ -9,5 +9,15 @@ A complete list of all the commands in **Dyphae** and how to use them... yay
 
 ## /give
 - Description: **Give a player/s stuff**
-- Usage
+- Usage:
 `Command.give(selector, item, amount)` or `Command.give(selector, item, nbt, amount)`
+
+## /seed
+- Description: **Gives you the worlds seed**
+- Usage:
+`Command.seed()`
+
+## /reload
+- Description: **Reloads all datapacks in the world**
+- Usage:
+`Command.reload()`
